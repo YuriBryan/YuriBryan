@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👨🏼‍💻 Yuri Bryan
 
-<!--
-**YuriBryan/YuriBryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+*Sou Yuri Bryan, tenho 21 anos, mineiro, formado no ensino médio pela Escola Estadual Madre Carmelita. Atualmente, curso Ciência da Computação na Faculdade UniAmérica Descomplica, onde busco me desenvolver profissionalmente na área da tecnologia.*
+---
+### *🖥️ Linguagens:*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img 
+align="left"
+alt="html"
+title="html"
+width="30px"
+style="padding-left: 10px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+align="left"
+alt="css"
+title="css"
+width="30px"
+style="padding-left: 10px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+align="left"
+alt="python"
+title="python"
+width="30px"
+style="padding-left: 10px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+align="left"
+alt="JS"
+title="JS"
+width="30px"
+style="padding-left: 10px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+align="left"
+alt="JS"
+title="JS"
+width="30px"
+style="padding-left: 10px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<br>
+<br>
+
+### 📊 Estatisticas
+
+<img 
+align="left"
+alt="TopLinguagens"
+height="100px"
+style="padding-left: 10px"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBryan&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+/>
+
+
