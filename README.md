@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Yuri Bryan
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FrontEnd`**
 
 *Sou Yuri Bryan, tenho 21 anos, mineiro, formado no ensino médio pela Escola Estadual Madre Carmelita. Atualmente, curso Ciência da Computação na Faculdade UniAmérica Descomplica, onde busco me desenvolver profissionalmente na área da tecnologia.*
 ---
