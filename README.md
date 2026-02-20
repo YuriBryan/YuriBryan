@@ -52,18 +52,18 @@ style="padding-left: 10px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
-<br>
-<br>
-
-### 📊 Estatisticas
-
 <img 
 align="left"
-alt="TopLinguagens"
-height="100px"
+alt="JS"
+title="JS"
+width="30px"
 style="padding-left: 10px"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBryan&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
+<br>
+<br>
+
 
 
